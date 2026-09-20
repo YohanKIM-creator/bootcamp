@@ -1,0 +1,13 @@
+# Python 3.12.3
+numpy==2.4.4
+pandas==3.0.3
+scipy==1.17.1
+scikit-learn==1.8.0
+lightgbm==4.7.0
+xgboost==3.4.1
+catboost==1.2.10
+matplotlib==3.10.9
+
+# для запуска ноутбука
+jupyterlab
+ipykernel
